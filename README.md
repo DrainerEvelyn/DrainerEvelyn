@@ -1,6 +1,6 @@
 ### Hello! Привет! こんにちは! 안녕! 你好！...
 
-I'm Zarabeth, an incoming freshman at University of Rochester with a passion for data science, computer science, statistics, applied mathematics and languages. Check out some of my stuff below:
+I'm Zarabeth, an incoming freshman at University of Rochester with a passion for data science, computer science, mathematics, statistics, economics and languages. Check out some of my stuff below:
 
 💻 **Initiative Website**: https://mathgecs.com
 
