@@ -26,7 +26,11 @@
     <img width="12"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="markdown" width="42" height="42"/>
     <img width="12"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" alt="bash" width="42" height="42"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="bash" width="42" height="42"/>
+    <img width="12"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" alt="bash" width="42" height="42"/>
+    <img width="12"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="bash" width="42" height="42"/>
     <img width="12"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42"/></a>
     <img width="12"/>
