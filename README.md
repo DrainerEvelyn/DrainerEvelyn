@@ -12,14 +12,6 @@
 
 ###
 
-<h2 align="center">🌐 Socials</h2>
-<p align="center">
-    <a href="https://instagram.com/mertkanproducer" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="25" alt="Instagram logo"/></a>
-</p>
-<img />
-
-###
-
 <h2 align="center">💻 Tech Stack</h2>
 <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42"/>
