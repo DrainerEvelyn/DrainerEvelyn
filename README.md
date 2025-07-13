@@ -6,7 +6,7 @@
 
 <h1 align="Center">👨‍💻 About Me</h1>
 <p align="center">🤝 Hey! I'm Evelyn, aka prod.evelyn909.</p>
-<p align="center">🤝 Data Science and Math + Stats @URochester</p>
+<p align="center">Data Science and Math + Stats @URochester</p>
 <div align="center">
     <img src="img/gradient.png" width="75%" alt="Gradient image"/>
 </div>
