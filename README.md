@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  research @ gids-ai | computer vision  
+  research & development @ uw madison - ssec | gis satellite imagery dev
   <br>
-  research and development @ uw madison - ssec | gis satellite imagery dev
+  research @ gids-ai | computer vision    
 </p>
