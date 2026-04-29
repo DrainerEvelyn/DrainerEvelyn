@@ -2,7 +2,7 @@
 <p align="center">cs + math @ urochester</p>
 
 <p align="center">
-  <a href="https://drainerevelyn.github.io/personal-website/">website</a> •
+  <a href="https://drainerwilly.github.io/personal-website/">website</a> •
   <a href="https://www.linkedin.com/in/mertkan-karaaslan-950573298/">linkedin</a> •
   <a href="https://github.com/DrainerEvelyn">github</a>
 </p>
